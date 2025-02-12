@@ -1,0 +1,3 @@
+0.2---TravelMode---activity---age---d_trip_x_coord---d_trip_y_coord---employment_status---gender---home_x_coord---home_y_coord---license---reported_travel_time
+0.2---TravelMode---activity---age---d-trip-x-coord---d-trip-y-coord---employment-status---gender---home-x-coord---home-y-coord---license---reported-travel-time
+0.2---TravelMode---activity---age---d_trip_x_coord---d_trip_y_coord---employment-status---gender---home_x_coord---home_y_coord---license---reported_travel_time
