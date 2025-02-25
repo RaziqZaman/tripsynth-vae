@@ -1,4 +1,4 @@
-age,gender,employment_status,license,dtrip_x_coord,d_trip_y_coord,home_x_coord,home_y_coord,reported_travel_time,activity,TravelMode
+age,gender,employment_status,license,d_trip_x_coord,d_trip_y_coord,home_x_coord,home_y_coord,reported_travel_time,activity,TravelMode
 82,1,1,1,-78.571862,39.7041,-78.607711,39.71195,5.0,5,3
 82,1,1,1,-78.607711,39.71195,-78.607711,39.71195,5.0,5,3
 53,1,0,1,-78.849618,39.6385,-78.670491,39.59448,25.0,5,3
